@@ -1,6 +1,6 @@
 # FlightSurety
 
-FlightSurety is a sample application project for Udacity's Blockchain course.
+Dapp interacting with oracles. Udacity Blockchain Developer Nanodegree.
 
 ## Install
 
@@ -9,7 +9,7 @@ To install, download or clone the repo:
 `npm install`
 `truffle compile`
 
-## Develop Client
+## Client
 
 To run truffle tests:
 
@@ -25,7 +25,7 @@ To view dapp:
 
 `http://localhost:8000`
 
-## Develop Server
+## Server
 
 `npm run server`
 `truffle test ./test/oracles.js`
