@@ -1,0 +1,31 @@
+{
+	"localhost": {
+		"url": "ws://127.0.0.1:7545/",
+		"network_id": 5777,
+		"websockets": true,
+		"dataAddress": "0x6C190A72dbb0F6bafa74D60A1a3bb6f9Cb7450B5",
+		"appAddress": "0x9388B4Fd680a193798e1C1d27E4c7BEfFc795eF5",
+		"flights": [
+			{
+				"airline": "0x7d3f45862f69E1Cfc4Cf4Be5B80a65d186D47875",
+				"airlineName": "U Airlife",
+				"flight": "ND1309",
+				"departureTimestamp": 1568638906
+			},
+			{
+				"airline": "0x0306332BfC0529bB87A94c9D2494b28eD924149B",
+				"airlineName": "Mars X",
+				"flight": "CM2395",
+				"departureTimestamp": 1568638906
+			},
+			{
+				"airline": "0xA3fF12703055500f5B4b3C541869Ef9a5945F029",
+				"airlineName": "Virgin",
+				"flight": "MM1990",
+				"departureTimestamp": 1568638906
+			}
+		],
+		"rinkebyDataContract": 1.0112654535001058e+48,
+		"rinkebyAppContract": 6.9041576058350306e+47
+	}
+}
